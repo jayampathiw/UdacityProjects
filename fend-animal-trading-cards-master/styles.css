@@ -1,0 +1,67 @@
+/* add your CSS here */
+
+/*div {
+    width: 320px;
+    padding : 10px;
+    border: 1px solid black;
+    
+    margin: 0;
+}*/
+
+div {
+    width: 300px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+
+#mainDiv {
+	box-shadow: 10px 10px 5px #888888; 
+}
+
+img {
+	width: 300px;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: bold;
+ }
+
+#detaildiv {
+	width: 270px;
+	padding: 10px;
+    margin: 5px;
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+span {
+	font-weight: bold;
+    font-size: 1.2em;
+}
+
+/*.subDiv {
+    width: 300px;
+    padding-left: 10px;
+    
+    padding-bottom: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+p {
+    
+}
+
+
+
+*/
