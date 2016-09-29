@@ -1,5 +1,33 @@
 /* add your CSS here */
 
+.title-text {
+    font-size: 2em;
+    font-weight: bold;
+ }
+
+.animal-image {
+	width: 300px;
+}
+
+.animal-detail {
+	list-style-type: none;
+}
+
+.card {
+	border: 1px solid black;
+    box-sizing: border-box;
+	padding : 10px;
+	width: 320px;
+	box-shadow: 10px 10px 5px #888; 
+}
+
+.detail {
+	border: 1px solid black;
+    box-sizing: border-box;
+	padding : 10px;
+}
+
+
 /*div {
     width: 320px;
     padding : 10px;
@@ -8,25 +36,13 @@
     margin: 0;
 }*/
 
-div {
-    width: 300px;
-    border: 1px solid black;
-    padding: 10px;
-    margin: 5px;
-}
-
-#mainDiv {
+/* #mainDiv {
 	box-shadow: 10px 10px 5px #888888; 
 }
 
-img {
-	width: 300px;
-}
 
-h3 {
-    font-size: 2em;
-    font-weight: bold;
- }
+
+
 
 #detaildiv {
 	width: 270px;
@@ -47,7 +63,7 @@ ul {
 span {
 	font-weight: bold;
     font-size: 1.2em;
-}
+} */
 
 /*.subDiv {
     width: 300px;
