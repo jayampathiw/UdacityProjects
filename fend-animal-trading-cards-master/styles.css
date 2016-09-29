@@ -13,6 +13,10 @@
 	list-style-type: none;
 }
 
+.animal-detail-name {
+	font-weight: bold;
+}
+
 .card {
 	border: 1px solid black;
     box-sizing: border-box;
@@ -27,57 +31,6 @@
 	padding : 10px;
 }
 
-
-/*div {
-    width: 320px;
-    padding : 10px;
-    border: 1px solid black;
-    
-    margin: 0;
-}*/
-
-/* #mainDiv {
-	box-shadow: 10px 10px 5px #888888; 
-}
-
-
-
-
-
-#detaildiv {
-	width: 270px;
-	padding: 10px;
-    margin: 5px;
-}
-
-p {
+.animal-facts {
     font-style: italic;
-    font-weight: bold;
-    font-size: 1.2em;
 }
-
-ul {
-  list-style-type: none;
-}
-
-span {
-	font-weight: bold;
-    font-size: 1.2em;
-} */
-
-/*.subDiv {
-    width: 300px;
-    padding-left: 10px;
-    
-    padding-bottom: 10px;
-    border: 1px solid black;
-    margin: 10px;
-}
-
-p {
-    
-}
-
-
-
-*/
